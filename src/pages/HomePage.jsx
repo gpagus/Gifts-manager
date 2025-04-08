@@ -6,7 +6,7 @@ const HomePage = () => {
       <h1 className="text-4xl font-bold text-pink-400 mb-4">
         Bienvenido a la gestión de regalos
       </h1>
-      <img src="./gift.webp" alt="Gift" className="rounded-lg mb-6 w-48" />
+      <img src="/gift.webp" alt="Gift" className="rounded-lg mb-6 w-48" />
       <p className="text-lg text-gray-700 max-w-lg">
         Evita el clásico 'calcetines otra vez'. Organiza tus regalos y sorprende
         de verdad.

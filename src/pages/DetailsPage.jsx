@@ -22,6 +22,7 @@ const DetailsPage = () => {
       <div className="bg-white p-6 shadow-lg rounded-lg w-full max-w-md text-center">
         <p className="text-lg font-bold">Para: {gift.name}</p>
         <p className="text-gray-700">Descripción: {gift.description}</p>
+        <p className="text-gray-700">Fecha de entrega: {gift.date}</p>
       </div>
 
       {/* Button to go back to the gift list */}
